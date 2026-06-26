@@ -288,4 +288,15 @@ Projet Power BI/
 │
 └── README.md
 ```
+# 📸 Captures d’Écran
+
+## 🖥️Dashboard_Students
+
+<img width="1298" height="730" alt="Dashboard_Students" src="https://github.com/user-attachments/assets/b63b17c7-38db-460e-9bab-58fbb7f6a5f9" />
+
+## 🖥️Dashboard_Teachers
+<img width="1115" height="801" alt="Dashboard_Teachers" src="https://github.com/user-attachments/assets/563a6ed6-09c7-4fb7-abfb-39ec42bf5846" />
+
+## Dashboard_Courses
+<img width="1295" height="733" alt="Dashboard_Courses" src="https://github.com/user-attachments/assets/6ba50b6a-156c-4bd1-8c9b-83ad9aa179c7" />
 
