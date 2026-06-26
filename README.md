@@ -292,7 +292,7 @@ Projet Power BI/
 
 ## 🖥️Dashboard_Students
 
-<img width="1298" height="730" alt="Dashboard_Students" src="https://github.com/user-attachments/assets/b63b17c7-38db-460e-9bab-58fbb7f6a5f9" />
+<img width="1211" height="696" alt="Dashboard_Students" src="https://github.com/user-attachments/assets/a64a88ea-c795-438c-899f-563f9e2a46d9" />
 
 ## 🖥️Dashboard_Teachers
 <img width="1115" height="801" alt="Dashboard_Teachers" src="https://github.com/user-attachments/assets/563a6ed6-09c7-4fb7-abfb-39ec42bf5846" />
